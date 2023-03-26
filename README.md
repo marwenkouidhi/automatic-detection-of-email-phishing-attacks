@@ -24,6 +24,7 @@ pip install -r requirements.txt
 ## 📁 Repository Structure
 
 The repository is structured as follows:
+
 `preprocess`: Contains scripts used to preprocess the collected data to DataFrames.
 
 `models`: Contains the implementation of the three models.
