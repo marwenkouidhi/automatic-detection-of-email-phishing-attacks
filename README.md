@@ -25,6 +25,7 @@ pip install -r requirements.txt
 
 The repository is structured as follows:
 `preprocess`: Contains scripts used to preprocess the collected data to DataFrames.
+
 `models`: Contains the implementation of the three models.
 
 ## 📊 Datasets
@@ -38,4 +39,5 @@ This project uses multiple datasets to train and evaluate the models:
 Both of these datasets can be downloaded from the following links:
 
 `Nazario phishing corpus`: https://monkey.org/~jose/phishing/
+
 `TREC phishing corpus`: https://plg.uwaterloo.ca/cgi-bin/cgiwrap/gvcormac/foo07
