@@ -18,7 +18,9 @@ cd automatic-detection-of-email-phishing-attacks
 2. Install the required packages.
 
 ```bash
-pip install -r requirements.txt
+conda env create -f environment.yml
+conda activate pi
+
 ```
 
 ## 📁 Repository Structure
